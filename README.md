@@ -1,2 +1,2 @@
-# javascripts
+# Inject-JavaScripts
 Just some ordinary scripts
